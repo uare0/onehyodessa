@@ -6,6 +6,7 @@ ex) 1에서 전처리한 데이터를 data 파일에 저장하고, 2에서 불�
 <br>
 넘버링 순서:
 
+
 1_survey_data
 
 2_scc_table : scc_user_doll_group, scc_doll, scc_doll_option, scc_agency
