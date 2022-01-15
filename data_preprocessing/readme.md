@@ -13,7 +13,7 @@ ex) 1에서 전처리한 데이터를 data 파일에 저장하고, 2에서 불�
 3_log_data: log_doll_drug_consume, log_emergency_push, scc_ear_function_log, log_doll
 
 4_survey_modeling_data: 기존 데이터 이용하여 설문지 모델링용 데이터 생성
-<br>
+<br><br>
 
 만들어지는 데이터: 
 
